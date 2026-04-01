@@ -1,4 +1,4 @@
-# Hi, I'm Joshua Zamora 👋
+<!--# Hi, I'm Joshua Zamora 👋-->
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=650&lines=Student+Developer;Java+%7C+Web+Development+%7C+Robotics;Future+UT+Dallas+Student;Always+Learning+New+Tech" />
@@ -9,7 +9,7 @@
 </p>
 
 ---
-
+<!--
 # 🚀 About Me
 
 * 🎓 **Barbers Hill High School — Class of 2026**
@@ -17,7 +17,7 @@
 * 🏆 **BPA National Competitor** (Java Programming & Web Design)
 * 🤖 **VEX Robotics Team Member**
 * 💡 Interested in **software engineering, robotics, and full-stack development**
-
+-->
 ---
 
 # 🛠 Tech Stack

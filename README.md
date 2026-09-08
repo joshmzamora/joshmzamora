@@ -19,5 +19,5 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=joshmzamora&theme=github-dark&hide_border=true&bg_color=0d1117&color=6ea6c0&line=6ea6c0&point=b5d8e8&area=false" alt="GitHub activity" width="78%" />
+  <img src="https://ghchart.rshah.org/6ea6c0/joshmzamora" alt="GitHub contributions" width="78%" />
 </p>

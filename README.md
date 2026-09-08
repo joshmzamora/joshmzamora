@@ -12,15 +12,12 @@
 </p>
 
 <p align="center">
-  <code>Dallas, TX</code>
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=joshmzamora&theme=github_dark" alt="GitHub activity" />
-</p>
-
-<p align="center">
+  Dallas, TX &nbsp;·&nbsp;
   <a href="mailto:joshuazamoraedu@gmail.com">email</a>
   &nbsp;·&nbsp;
   <a href="https://www.linkedin.com/in/joshmzamora/">linkedin</a>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=joshmzamora&theme=github-dark&hide_border=true&bg_color=0d1117&color=6ea6c0&line=6ea6c0&point=b5d8e8&area=false" alt="GitHub activity" width="78%" />
 </p>

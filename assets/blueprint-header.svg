@@ -1,0 +1,63 @@
+<svg width="1200" height="300" viewBox="0 0 1200 300" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <pattern id="smallGrid" width="24" height="24" patternUnits="userSpaceOnUse">
+      <path d="M 24 0 L 0 0 0 24" fill="none" stroke="#1f3a4d" stroke-width="1"/>
+    </pattern>
+    <pattern id="grid" width="96" height="96" patternUnits="userSpaceOnUse">
+      <rect width="96" height="96" fill="url(#smallGrid)"/>
+      <path d="M 96 0 L 0 0 0 96" fill="none" stroke="#2b5670" stroke-width="1.25"/>
+    </pattern>
+    <marker id="arrow" markerWidth="7" markerHeight="7" refX="3.5" refY="3.5" orient="auto">
+      <path d="M0,0 L7,3.5 L0,7 Z" fill="#5f93ad"/>
+    </marker>
+  </defs>
+
+  <rect width="1200" height="300" rx="18" fill="#0d1117"/>
+  <rect width="1200" height="300" rx="18" fill="url(#grid)" opacity="0.58"/>
+
+  <path d="M36 42 H1164 M36 258 H1164" stroke="#355b70" stroke-width="1"/>
+  <path d="M54 26 V274 M1146 26 V274" stroke="#355b70" stroke-width="1"/>
+  <path d="M54 42 H82 M54 42 V70 M1146 42 H1118 M1146 42 V70
+           M54 258 H82 M54 258 V230 M1146 258 H1118 M1146 258 V230"
+        stroke="#6ea6c0" stroke-width="2"/>
+
+  <text x="102" y="118" fill="#d7edf7" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace"
+        font-size="42" font-weight="700" letter-spacing="4">JOSHUA ZAMORA</text>
+  <text x="104" y="154" fill="#8ab5ca" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace"
+        font-size="16" letter-spacing="2">MECHANICAL ENGINEERING // UT DALLAS</text>
+
+  <line x1="104" y1="181" x2="544" y2="181" stroke="#5f93ad" stroke-width="1"
+        marker-start="url(#arrow)" marker-end="url(#arrow)"/>
+  <text x="268" y="174" fill="#5f93ad" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace"
+        font-size="11" letter-spacing="1.5">ROBOTICS / AUTOMATION / EMBEDDED</text>
+
+  <text x="104" y="221" fill="#6e8997" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace"
+        font-size="11" letter-spacing="1.4">DWG  JZ-001</text>
+  <text x="216" y="221" fill="#6e8997" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace"
+        font-size="11" letter-spacing="1.4">SCALE  NTS</text>
+  <text x="316" y="221" fill="#6e8997" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace"
+        font-size="11" letter-spacing="1.4">REV  A</text>
+
+  <circle cx="820" cy="218" r="31" stroke="#79abc1" stroke-width="2"/>
+  <circle cx="820" cy="218" r="7" fill="#79abc1"/>
+  <circle cx="917" cy="143" r="14" stroke="#79abc1" stroke-width="2"/>
+  <circle cx="917" cy="143" r="4" fill="#79abc1"/>
+  <circle cx="1004" cy="93" r="10" stroke="#79abc1" stroke-width="2"/>
+  <line x1="839" y1="194" x2="904" y2="153" stroke="#b5d8e8" stroke-width="7" stroke-linecap="round"/>
+  <line x1="929" y1="136" x2="994" y2="99" stroke="#b5d8e8" stroke-width="6" stroke-linecap="round"/>
+  <path d="M1008 84 L1038 70 M1009 95 L1044 96" stroke="#b5d8e8" stroke-width="4" stroke-linecap="round"/>
+
+  <line x1="820" y1="67" x2="820" y2="250" stroke="#476b7d" stroke-width="1" stroke-dasharray="5 6"/>
+  <line x1="765" y1="218" x2="1060" y2="218" stroke="#476b7d" stroke-width="1" stroke-dasharray="5 6"/>
+  <line x1="917" y1="60" x2="917" y2="236" stroke="#355b70" stroke-width="1" stroke-dasharray="4 6"/>
+
+  <line x1="820" y1="52" x2="1004" y2="52" stroke="#5f93ad" stroke-width="1"
+        marker-start="url(#arrow)" marker-end="url(#arrow)"/>
+  <line x1="820" y1="57" x2="820" y2="75" stroke="#5f93ad" stroke-width="1"/>
+  <line x1="1004" y1="57" x2="1004" y2="75" stroke="#5f93ad" stroke-width="1"/>
+  <text x="888" y="44" fill="#6f9db3" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace"
+        font-size="11" letter-spacing="1">184 mm</text>
+
+  <text x="1064" y="222" fill="#557b8e" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="10">X</text>
+  <text x="814" y="62" fill="#557b8e" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="10">Y</text>
+</svg>

@@ -17,7 +17,3 @@
   &nbsp;·&nbsp;
   <a href="https://www.linkedin.com/in/joshmzamora/">linkedin</a>
 </p>
-
-<p align="center">
-  <img src="https://ghchart.rshah.org/6ea6c0/joshmzamora" alt="GitHub contributions" width="78%" />
-</p>

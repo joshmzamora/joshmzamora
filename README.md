@@ -16,4 +16,6 @@
   <a href="mailto:joshuazamoraedu@gmail.com">email</a>
   &nbsp;·&nbsp;
   <a href="https://www.linkedin.com/in/joshmzamora/">linkedin</a>
+  &nbsp;·&nbsp;
+  <a href="./resume.md">resume</a>
 </p>
